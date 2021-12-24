@@ -1,0 +1,16 @@
+body{
+    background-image:url(/assets/imgs/240_F_292362758_yXEWwWeAsv4sR3kCcccwoKxXwnYcws8l.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:95hv;
+    width:95;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+h1{
+    font-size: 70px;
+    font-style: initial;
+    text-transform: uppercase;
+}
